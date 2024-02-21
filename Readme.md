@@ -19,6 +19,7 @@
 ### 프로필 화면
 <img src="https://github.com/yebin113/django_prac/assets/139421100/4503e271-1151-4679-8f8a-b993482ca0ed" width="500px" height="300px"/>
 
+### npm 설치
 ```sh
 npm install
 ```
